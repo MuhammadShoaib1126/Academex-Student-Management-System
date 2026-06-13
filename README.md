@@ -2,6 +2,7 @@
 
 Academex is a full-stack school management system built from scratch using Node.js, MySQL, and vanilla JavaScript. It provides role-based access and core academic management features without relying on modern frontend frameworks.
 
+Live Demo : https://academex-sms.vercel.app
 ---
 
 ## 🚀 Overview
@@ -67,17 +68,12 @@ Academex was built to manage student and administrative workflows in a structure
 
 ```bash
 # Clone repository
-git clone https://github.com/GixCoder999/academex---school-management-system.git
-
-# Install dependencies
+git clone https://github.com/MuhammadShoaib1126/Academex-Student-Management-System
 npm install
-
-# Run server
 npm start
-
 ```
 ## 🤝 Acknowledgements
 
-This project was my **first academic web development project**, built during my early learning phase of full-stack development.
+This project was my **first academic web development project**, built during Database systems course.
 
-Special thanks to my teammates **Mohib Shahid** and **Muhammad Shoaib Imran** for their collaboration, contribution, and support throughout the development process. Working together on this project helped strengthen our understanding of full-stack development, system design, and real-world problem solving.
+Special thanks to my teammates **Mohib Shahid** and **Muhammad Sohaib** for their collaboration, contribution, and support throughout the development process. Working together on this project helped strengthen our understanding of full-stack development, system design, and real-world problem solving.
